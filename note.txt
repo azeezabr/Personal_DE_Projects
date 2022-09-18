@@ -1,0 +1,3 @@
+ copy file from one folder to the other, 
+	source folder is firt list .
+cp -R /c/Users/Workstation/.ssh/. /c/Users/Workstation/Data_Projects/.ssh

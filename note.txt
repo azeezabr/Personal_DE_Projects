@@ -1,3 +1,17 @@
  copy file from one folder to the other, 
 	source folder is firt list .
 cp -R /c/Users/Workstation/.ssh/. /c/Users/Workstation/Data_Projects/.ssh
+
+
+Delete a Directory ( rm -r )
+
+
+ssh-keygen -t rsa -f ~/.ssh/gcp2 -C azeezabr -b 2048
+
+ssh -i ~/.ssh/gcp2 azeezabr@34.168.204.31
+
+htop #check what type of machine we have 
+
+less .bashrc #open bashrc
+
+source .bashrc # refresh bashrc

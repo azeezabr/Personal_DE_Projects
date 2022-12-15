@@ -15,3 +15,5 @@ htop #check what type of machine we have
 less .bashrc #open bashrc
 
 source .bashrc # refresh bashrc
+
+sudo shutdown
